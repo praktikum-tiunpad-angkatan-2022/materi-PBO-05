@@ -137,7 +137,7 @@ src: ./pages/27_Teknis Pengumpulan 1.md
 
 ---
 ---
-src: ./pages/29_Snippets.md 
+src: ./pages/28_Snippets.md 
 
 ---
 ---
