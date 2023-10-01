@@ -137,13 +137,17 @@ src: ./pages/27_Teknis Pengumpulan 1.md
 
 ---
 ---
-src: ./pages/28_Teknis Pengumpulan 2.md 
+src: ./pages/29_Snippets.md 
 
 ---
 ---
-src: ./pages/29_Deadline.md 
+src: ./pages/29_Teknis Pengumpulan 2.md 
 
 ---
 ---
-src: ./pages/30_Terima Kasih.md 
+src: ./pages/30_Deadline.md 
+
+---
+---
+src: ./pages/31_Terima Kasih.md 
 ---
